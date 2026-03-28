@@ -12,7 +12,7 @@ import (
 
 const (
 	Author = "Albert Skonieczny <github.com/albertsko>"
-	Name   = "Everforest Theme"
+	Name   = "Everforest remix Theme"
 
 	EverforestTemplatePath         = "./templates/everforest-regular.json.tmpl"
 	EverforestMaterialTemplatePath = "./templates/everforest-material.json.tmpl"
@@ -64,12 +64,13 @@ var zedThemes = []ZedTheme{
 }
 
 var themeVariants = []ThemeVariant{
-	{Name: "Everforest Dark Hard", Appearance: DarkAppearance, PalettePath: EverforestDarkHardPalette},
-	{Name: "Everforest Dark Medium", Appearance: DarkAppearance, PalettePath: EverforestDarkMediumPalette},
-	{Name: "Everforest Dark Soft", Appearance: DarkAppearance, PalettePath: EverforestDarkSoftPalette},
-	{Name: "Everforest Light Hard", Appearance: LightAppearance, PalettePath: EverforestLightHardPalette},
-	{Name: "Everforest Light Medium", Appearance: LightAppearance, PalettePath: EverforestLightMediumPalette},
-	{Name: "Everforest Light Soft", Appearance: LightAppearance, PalettePath: EverforestLightSoftPalette},
+	{Name: "Everforest remix Dark Hard", Appearance: DarkAppearance, PalettePath: EverforestDarkHardPalette},
+	{Name: "Everforest remix Dark Hard", Appearance: DarkAppearance, PalettePath: EverforestDarkHardPalette},
+	{Name: "Everforest remix Dark Medium", Appearance: DarkAppearance, PalettePath: EverforestDarkMediumPalette},
+	{Name: "Everforest remix Dark Soft", Appearance: DarkAppearance, PalettePath: EverforestDarkSoftPalette},
+	{Name: "Everforest remix Light Hard", Appearance: LightAppearance, PalettePath: EverforestLightHardPalette},
+	{Name: "Everforest remix Light Medium", Appearance: LightAppearance, PalettePath: EverforestLightMediumPalette},
+	{Name: "Everforest remix Light Soft", Appearance: LightAppearance, PalettePath: EverforestLightSoftPalette},
 }
 
 func Generate() {
