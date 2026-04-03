@@ -7,7 +7,7 @@
       "appearance": "dark",
       "name": "Everforest remix Dark Hard (regular)",
       "style": {
-        "accents": ["#a7c080"],
+        "accents": ["#e67e80", "#e69875", "#dbbc7f", "#a7c080", "#83c092", "#7fbbb3", "#d699b6"],
         "background": "#272e33",
         "background.appearance": "opaque",
         "border": "#414b50",
@@ -208,7 +208,7 @@
       "appearance": "dark",
       "name": "Everforest remix Dark Hard (regular)",
       "style": {
-        "accents": ["#a7c080"],
+        "accents": ["#e67e80", "#e69875", "#dbbc7f", "#a7c080", "#83c092", "#7fbbb3", "#d699b6"],
         "background": "#272e33",
         "background.appearance": "opaque",
         "border": "#414b50",
@@ -409,7 +409,7 @@
       "appearance": "dark",
       "name": "Everforest remix Dark Medium (regular)",
       "style": {
-        "accents": ["#a7c080"],
+        "accents": ["#e67e80", "#e69875", "#dbbc7f", "#a7c080", "#83c092", "#7fbbb3", "#d699b6"],
         "background": "#2d353b",
         "background.appearance": "opaque",
         "border": "#475258",
@@ -610,7 +610,7 @@
       "appearance": "dark",
       "name": "Everforest remix Dark Soft (regular)",
       "style": {
-        "accents": ["#a7c080"],
+        "accents": ["#e67e80", "#e69875", "#dbbc7f", "#a7c080", "#83c092", "#7fbbb3", "#d699b6"],
         "background": "#333c43",
         "background.appearance": "opaque",
         "border": "#4d5960",
@@ -811,7 +811,7 @@
       "appearance": "light",
       "name": "Everforest remix Light Hard (regular)",
       "style": {
-        "accents": ["#93b259"],
+        "accents": ["#f85552", "#f57d26", "#dfa000", "#8da101", "#35a77c", "#3a94c5", "#df69ba"],
         "background": "#fffbef",
         "background.appearance": "opaque",
         "border": "#edeada",
@@ -1012,7 +1012,7 @@
       "appearance": "light",
       "name": "Everforest remix Light Medium (regular)",
       "style": {
-        "accents": ["#93b259"],
+        "accents": ["#f85552", "#f57d26", "#dfa000", "#8da101", "#35a77c", "#3a94c5", "#df69ba"],
         "background": "#fdf6e3",
         "background.appearance": "opaque",
         "border": "#e6e2cc",
@@ -1213,7 +1213,7 @@
       "appearance": "light",
       "name": "Everforest remix Light Soft (regular)",
       "style": {
-        "accents": ["#93b259"],
+        "accents": ["#f85552", "#f57d26", "#dfa000", "#8da101", "#35a77c", "#3a94c5", "#df69ba"],
         "background": "#f3ead3",
         "background.appearance": "opaque",
         "border": "#ddd8be",
